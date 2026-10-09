@@ -1,0 +1,94 @@
+# Operating systems and editors
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# JavaScript / TypeScript
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+.pnp.*
+coverage/
+dist/
+.next/
+.nuxt/
+.svelte-kit/
+*.tsbuildinfo
+
+# C / C++
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dylib
+*.dll
+*.exe
+*.out
+*.pdb
+*.ilk
+*.pch
+*.gch
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+compile_commands.json
+
+# Java / Kotlin
+*.class
+target/
+.gradle/
+build/
+out/
+
+# C#
+bin/
+obj/
+.vs/
+*.user
+*.suo
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+venv/
+.venv/
+env/
+.env
+ENV/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.tox/
+.nox/
+htmlcov/
+.coverage*
+__pypackages__/
+.ipynb_checkpoints/
+
+# Go
+*.test
+*.prof
+coverage.out
+
+# Rust
+/target/
+
+# PHP
+/vendor/
+
+# Ruby
+.bundle/
+vendor/bundle/
+
+# Swift / Xcode
+.build/
+DerivedData/
+*.xcuserstate
+xcuserdata/
